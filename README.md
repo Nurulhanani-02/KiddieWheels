@@ -1,6 +1,6 @@
-# KiddieWheels
+# KiddieWheels (Parent)
 
-A new Flutter project.
+KiddieWheels for parent's side.
 
 ## Getting Started
 
