@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585643387380",
+    "project_id": "kiddiewheels-2669b",
+    "storage_bucket": "kiddiewheels-2669b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585643387380:android:b0b22ec7d749a0c4ba31a1",
+        "android_client_info": {
+          "package_name": "fyp2.kiddiewheels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeqSMUO05LUjr32ANw6gwm47Q7iJ0BqsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
