@@ -1,4 +1,4 @@
-# kiddiewheels_fyp
+# KiddieWheels
 
 A new Flutter project.
 
